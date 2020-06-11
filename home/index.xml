@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Pedro Hespanhol</title>
+    <link>https://pedrohespanhol.github.io/home/</link>
+    <description>Recent content in Homes on Pedro Hespanhol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pedrohespanhol.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://pedrohespanhol.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/about/</guid>
+      <description>Biography I am a PhD candidate in Industrial Engineering and Operations Research at UC Berkeley working with Professor Anil Aswani. I obtained my Bachelor&amp;rsquo;s degree in Industrial Engineering at Pontificia Universidade Catolica do Rio de Janeiro, Brazil. My research is focused on the interplay between control, learning and optimization, with emphasis on autonomous systems, such as self-driving vehicles, satellites, and robots. In particular, I study optimization algorithms and statistical learning techniques that are able to provide safe and efficient real-time operation of such systems.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://pedrohespanhol.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://pedrohespanhol.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://pedrohespanhol.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://pedrohespanhol.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://pedrohespanhol.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://pedrohespanhol.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/teaching/</guid>
+      <description>Math Programming I (IEOR 262A, Fall 2018): https://atamturk.ieor.berkeley.edu/ieor262a/
+Engineering Statistics, Quality Control, and Forecasting (IEOR 165, Spring 2018): http://ieor.berkeley.edu/~ieor165/
+Service Operations Design and Analysis (IEOR 151, Fall 2017): http://ieor.berkeley.edu/~ieor151/
+Learning and Optimization (IEOR 265, Spring 2017): http://ieor.berkeley.edu/~aaswani/teaching/SP17/265/</description>
+    </item>
+    
+    <item>
+      <title>Honor and Awards</title>
+      <link>https://pedrohespanhol.github.io/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/awards/</guid>
+      <description>Marshall-Oliver-Rosenberger Fellowship Award - granted by the Industrial Engineering and Op- erations Research Department at University of California Berkeley. (link)
+Outstanding GSI Awards - granted by the Industrial Engineering and Operations Research Depart- ment at University of California Berkeley. (link)
+Outstanding Graduate Student Instructor 2019 - granted by the Graduate Division of University of California Berkeley. (link)
+ENGIE Brazil Innovation Prize - granted by ENGIE Group for the development of the HERA software.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://pedrohespanhol.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Talks</title>
+      <link>https://pedrohespanhol.github.io/home/invitedtalks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/invitedtalks/</guid>
+      <description>Surrogate Optimal Control for Strategic Multi Agent Systems Professor S. Shankar Sastry semiautonomous group at UC Berkeley.
+A Structure Exploiting Branch-and-bound Algorithm For Mixed-integer Model Predictive Control INFORMS Annual Meeting, Seattle, WA, 2019.
+Statistically-Consistent Identication of Switched Linear Systems INFORMS Annual Meeting, Seattle, WA, 2019.
+Surrogate Optimal Control for Strategic Multi-Agent Systems 58th IEEE Conference on Decision and Control, Nice, France, December 11-13, 2019.
+Statistical Watermarking for Networked Control Systems Annual American Control Conference, Milwaukee, USA, June 27-29, 2018.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pedrohespanhol.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

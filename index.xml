@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Hespanhol on Pedro Hespanhol</title>
+    <link>https://pedrohespanhol.github.io/</link>
+    <description>Recent content in Pedro Hespanhol on Pedro Hespanhol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Statistical Consistency of Set-Membership Estimator for Linear Systems</title>
+      <link>https://pedrohespanhol.github.io/publication/switched/</link>
+      <pubDate>Tue, 28 Apr 2020 15:20:09 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/switched/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypothesis Testing Approach to Detecting Collusion in Competitive Environments</title>
+      <link>https://pedrohespanhol.github.io/publication/hypothesis/</link>
+      <pubDate>Sun, 22 Mar 2020 15:18:09 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/hypothesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor Switching Control Under Attacks Detectable by Finite Sample Dynamic Watermarking Tests</title>
+      <link>https://pedrohespanhol.github.io/publication/attack_journal/</link>
+      <pubDate>Mon, 10 Feb 2020 15:20:09 -0702</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/attack_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Deception Attacks on Autonomous Vehicles via Linear Time-Varying Dynamic Watermarking</title>
+      <link>https://pedrohespanhol.github.io/publication/detecting_deception/</link>
+      <pubDate>Fri, 24 Jan 2020 14:03:57 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/detecting_deception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IEOR 265 - Learning and Optimization - Spring 2020</title>
+      <link>https://pedrohespanhol.github.io/talk/ieor265/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/talk/ieor265/</guid>
+      <description>&lt;p&gt;Course Description:&lt;/p&gt;
+
+&lt;p&gt;This course covers topics related to the interplay between optimization and statistical learning. The first part of the course will cover the fundamentals, methods, and algorithms for dynamic programming, and optimal control. We will study approximate dynamic programming and the formulation and numerical implementation of several different algorithms and reinforcement learning methods. In addition we will study learning-based model predictive control (LBMPC), which is a method for robust adaptive optimization that can use machine learning to provide the adaptation online. The second part of the course will deal with inverse decision-making problems, which are problems where an agent&amp;rsquo;s decisions are observed and used to infer properties about the agent, such as preferences, utility functions, etc.&lt;/p&gt;
+
+&lt;p&gt;Course &lt;a href=&#34;https://pedrohespanhol.github.io/files/Syllabus.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus - Spring 2020&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Spring 2020 &lt;a href=&#34;https://pedrohespanhol.github.io/files/course_evaluation.pdf&#34; target=&#34;_blank&#34;&gt;course evaluation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Course Material:&lt;/p&gt;
+
+&lt;p&gt;Lecture 1: Introduction to Dynamic Programming &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note1.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_1.pdf&#34; target=&#34;_blank&#34;&gt;chess match example&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 2: Deterministic Dynamic Programming &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note2.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_2.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 3: Hidden Markov Models &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note3.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_3.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 4: Stochastic DP and LQR model &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note4.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_4.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 5: Approximate DP and Reinforcement Learning &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_5.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 6: Approximation in Value Space &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note6.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_6.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 7: Approximation Architectures and (Deep) Neural Networks &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note7.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_7.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 8: Value Iteration and the DQN Algorithm &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note8.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_8.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 9: DQN Algorithm implementation &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_9.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 10: Policy Iteration &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note10.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_10.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 11: Approximate PI, Critic Algorithm and Policy Gradient &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note11.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_11.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 12: The Actor-Critic Algorithm &lt;a href=&#34;https://pedrohespanhol.github.io/files/Note12.pdf&#34; target=&#34;_blank&#34;&gt;lecture notes&lt;/a&gt; - &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_12.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 13: AlphaGo Implementation and Analysis &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_13.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 14: Monte-Carlo Tree Search &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_14.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 15: Model Predictive Control (MPC) &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_15.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 16: Establishing MPC Properties &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_16.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 17: Invariant Sets and Polyhedral Operations &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_17.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 18: Robust Model Predictive Control &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_18.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 19: Learning-based Model Predictive Control (LBMPC) &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_19.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 20: Recap of Approximate DP and Reinforcement Learning &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_20.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 21: Inverse Decision Making Problems &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_21.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecture 22: Inverse Optimization and Variational Inequalities &lt;a href=&#34;https://pedrohespanhol.github.io/files/Lecture_slides_22.pdf&#34; target=&#34;_blank&#34;&gt;lecture slides&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Surrogate Optimal Control for Strategic Multi-Agent Systems</title>
+      <link>https://pedrohespanhol.github.io/publication/mech/</link>
+      <pubDate>Wed, 11 Dec 2019 15:18:09 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/mech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Generalized Replay Attacks via Time-Varying Dynamic Watermarking</title>
+      <link>https://pedrohespanhol.github.io/publication/generalized/</link>
+      <pubDate>Tue, 17 Sep 2019 15:20:09 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/generalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Structure Exploiting Branch-and-Bound Algorithm for Mixed-Integer Model Predictive Control</title>
+      <link>https://pedrohespanhol.github.io/publication/mip/</link>
+      <pubDate>Tue, 25 Jun 2019 15:27:19 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/mip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-Newton Jacobian and Hessian Updates for Pseudospectral based NMPC</title>
+      <link>https://pedrohespanhol.github.io/publication/pseudo/</link>
+      <pubDate>Sun, 19 Aug 2018 14:53:32 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjoint-based SQP Method with Block-wise quasi-Newton Jacobian Updates for Nonlinear Optimal Control</title>
+      <link>https://pedrohespanhol.github.io/publication/tr1_journal/</link>
+      <pubDate>Wed, 08 Aug 2018 15:16:08 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/tr1_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Real-World Evaluation of Attack Detection Schemes</title>
+      <link>https://pedrohespanhol.github.io/publication/simulation/</link>
+      <pubDate>Wed, 27 Jun 2018 14:03:57 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Watermarking for Networked Control Systems</title>
+      <link>https://pedrohespanhol.github.io/publication/watermarking_network/</link>
+      <pubDate>Wed, 27 Jun 2018 14:03:57 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/watermarking_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family-Personalized Dietary Planning with Temporal Dynamics</title>
+      <link>https://pedrohespanhol.github.io/publication/diet/</link>
+      <pubDate>Wed, 27 Jun 2018 14:01:16 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/diet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Occupancy Modeling and Horizon Length on HVAC Controller Efficiency</title>
+      <link>https://pedrohespanhol.github.io/publication/garaza/</link>
+      <pubDate>Tue, 12 Jun 2018 15:21:33 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/garaza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-Time Iteration Scheme with Quasi-Newton Jacobian Updates for Nonlinear Model Predictive Control</title>
+      <link>https://pedrohespanhol.github.io/publication/tr1_ecc/</link>
+      <pubDate>Tue, 12 Jun 2018 14:28:45 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/tr1_ecc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

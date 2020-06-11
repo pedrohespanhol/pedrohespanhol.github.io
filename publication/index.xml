@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Pedro Hespanhol</title>
+    <link>https://pedrohespanhol.github.io/publication/</link>
+    <description>Recent content in Publications on Pedro Hespanhol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pedrohespanhol.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical Consistency of Set-Membership Estimator for Linear Systems</title>
+      <link>https://pedrohespanhol.github.io/publication/switched/</link>
+      <pubDate>Tue, 28 Apr 2020 15:20:09 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/switched/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypothesis Testing Approach to Detecting Collusion in Competitive Environments</title>
+      <link>https://pedrohespanhol.github.io/publication/hypothesis/</link>
+      <pubDate>Sun, 22 Mar 2020 15:18:09 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/hypothesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor Switching Control Under Attacks Detectable by Finite Sample Dynamic Watermarking Tests</title>
+      <link>https://pedrohespanhol.github.io/publication/attack_journal/</link>
+      <pubDate>Mon, 10 Feb 2020 15:20:09 -0702</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/attack_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Deception Attacks on Autonomous Vehicles via Linear Time-Varying Dynamic Watermarking</title>
+      <link>https://pedrohespanhol.github.io/publication/detecting_deception/</link>
+      <pubDate>Fri, 24 Jan 2020 14:03:57 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/detecting_deception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate Optimal Control for Strategic Multi-Agent Systems</title>
+      <link>https://pedrohespanhol.github.io/publication/mech/</link>
+      <pubDate>Wed, 11 Dec 2019 15:18:09 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/mech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Generalized Replay Attacks via Time-Varying Dynamic Watermarking</title>
+      <link>https://pedrohespanhol.github.io/publication/generalized/</link>
+      <pubDate>Tue, 17 Sep 2019 15:20:09 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/generalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Structure Exploiting Branch-and-Bound Algorithm for Mixed-Integer Model Predictive Control</title>
+      <link>https://pedrohespanhol.github.io/publication/mip/</link>
+      <pubDate>Tue, 25 Jun 2019 15:27:19 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/mip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-Newton Jacobian and Hessian Updates for Pseudospectral based NMPC</title>
+      <link>https://pedrohespanhol.github.io/publication/pseudo/</link>
+      <pubDate>Sun, 19 Aug 2018 14:53:32 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjoint-based SQP Method with Block-wise quasi-Newton Jacobian Updates for Nonlinear Optimal Control</title>
+      <link>https://pedrohespanhol.github.io/publication/tr1_journal/</link>
+      <pubDate>Wed, 08 Aug 2018 15:16:08 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/tr1_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation and Real-World Evaluation of Attack Detection Schemes</title>
+      <link>https://pedrohespanhol.github.io/publication/simulation/</link>
+      <pubDate>Wed, 27 Jun 2018 14:03:57 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Watermarking for Networked Control Systems</title>
+      <link>https://pedrohespanhol.github.io/publication/watermarking_network/</link>
+      <pubDate>Wed, 27 Jun 2018 14:03:57 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/watermarking_network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family-Personalized Dietary Planning with Temporal Dynamics</title>
+      <link>https://pedrohespanhol.github.io/publication/diet/</link>
+      <pubDate>Wed, 27 Jun 2018 14:01:16 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/diet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Occupancy Modeling and Horizon Length on HVAC Controller Efficiency</title>
+      <link>https://pedrohespanhol.github.io/publication/garaza/</link>
+      <pubDate>Tue, 12 Jun 2018 15:21:33 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/garaza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-Time Iteration Scheme with Quasi-Newton Jacobian Updates for Nonlinear Model Predictive Control</title>
+      <link>https://pedrohespanhol.github.io/publication/tr1_ecc/</link>
+      <pubDate>Tue, 12 Jun 2018 14:28:45 -0700</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/tr1_ecc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Watermarking for General LTI Systems</title>
+      <link>https://pedrohespanhol.github.io/publication/watermarking/</link>
+      <pubDate>Tue, 12 Dec 2017 13:53:25 -0800</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/publication/watermarking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

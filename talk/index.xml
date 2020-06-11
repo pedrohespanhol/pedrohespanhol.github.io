@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invited Talks on Pedro Hespanhol</title>
+    <link>https://pedrohespanhol.github.io/talk/</link>
+    <description>Recent content in Invited Talks on Pedro Hespanhol</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pedrohespanhol.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IEOR 265 - Learning and Optimization - Spring 2020</title>
+      <link>https://pedrohespanhol.github.io/talk/ieor265/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedrohespanhol.github.io/talk/ieor265/</guid>
+      <description>Course Description:
+This course covers topics related to the interplay between optimization and statistical learning. The first part of the course will cover the fundamentals, methods, and algorithms for dynamic programming, and optimal control. We will study approximate dynamic programming and the formulation and numerical implementation of several different algorithms and reinforcement learning methods. In addition we will study learning-based model predictive control (LBMPC), which is a method for robust adaptive optimization that can use machine learning to provide the adaptation online.</description>
+    </item>
+    
+  </channel>
+</rss>
